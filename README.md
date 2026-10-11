@@ -1,3 +1,5 @@
+![Alt text](images/github.png)
+
 # Yo, I'm Akul
 I am a passionate Electronics Engineering student at College of Engineering Trivandrum (CET), specializing in building Robotics projects and flying drones. I love contributing to open-source projects and writing clean, maintainable code.
 
